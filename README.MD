@@ -200,7 +200,7 @@ base de datos en este caso Mysql
 
 ## link del video: 
 
-- 
+- https://flip.com/s/MTtAwHNydnxt
 
 #
 
