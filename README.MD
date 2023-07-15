@@ -164,16 +164,49 @@ base de datos en este caso Mysql
 #
 
 ## VIDEO GMAIL
+- En este video se observo que se puede enviar mensajes GMAIL mediante el framework de DJango.
+<br>
+<br>
+<td><img src="./Imagenes/VideoGMAIL1.PNG" alt="GMAIL1"/></td><br>
+- En esta imagen se puede observar que nuestros index.html nos confirma que se envio el mensaje al correo correspondiente
+<br>
+<br>
+<td><img src="./Imagenes/VideoGMAIL2.PNG" alt="GMAIL2"/></td><br>
+- En esta imagen estamos observando que llego el mensaje anteriormente enviado.
 
 #
 
 ## VIDEO PDF
+- En este video lo que se observo esque se puede crear un archivo pdf directamente con el framework de DJango.
+<br>
+<br>
+<td><img src="./Imagenes/VideoPDF2.PNG" alt="PDF1"/></td><br>
+- En esta imagen se puede observar la primera ventana al ingresar a nuestro servidor nos dira si deseamos 
+  descargarla o solamente observarla.
+<br>
+<br>
+<td><img src="./Imagenes/VideoPDF1.PNG" alt="PDF2"/></td><br>
+- En esta imagen estamos observando el PDF creado antes con html.
 
 #
 
 ## Commits
 - Estos son los commits realizados mediante se realizaba el proyecto.
+<td><img src="./Imagenes/git1.PNG" alt="git1"/></td><br>
+<td><img src="./Imagenes/git2.PNG" alt="git2"/></td><br>
+<td><img src="./Imagenes/git3.PNG" alt="git3"/></td><br>
 
+#
+
+## link del video: 
+
+- 
+
+#
+
+## link del Repositorio: 
+
+- https://github.com/fvilcaqui/lab07pweb2
 
 #
 
