@@ -5,7 +5,7 @@ from django.core.mail import send_mail
 def index(request):
     send_mail('Hello from PrettyPrinted',
     'Hello there. This is an automated message.',
-    'superlogansito@gmail.com',
+    'sininchicudo.38@gmail.com',
     ['haropap431@meogl.com'],
     fail_silently=False)
 
